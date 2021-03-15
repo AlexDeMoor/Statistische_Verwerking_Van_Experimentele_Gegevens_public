@@ -10,11 +10,11 @@ In deze repository staan alle opgaves voor het vak "Statistische Verwerking van 
 
 ## Step 0: download this repository
 ```
-git clone https://github.com/smoortga/Statistische_Verwerking_Van_Experimentele_Gegevens.git
+git clone https://github.com/smoortga/Statistische_Verwerking_Van_Experimentele_Gegevens_public.git
 ```
 
 ## Step 1: download anaconda
-Download anaconda with python 3.7 from [this link](https://docs.anaconda.com/anaconda/install/) for your operating system.
+Download anaconda (with python 3.7) from [this link](https://docs.anaconda.com/anaconda/install/) for your operating system.
 
 ## Step 2: create a conda environment
 You can easily create a conda environment with all necessary packages installed via the [environment.yml](environment.yml) file by typing:
