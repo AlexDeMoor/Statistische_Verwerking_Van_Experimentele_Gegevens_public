@@ -10,7 +10,7 @@ In deze repository staan alle opgaves voor het vak "Statistische Verwerking van 
 
 ## Step 0: download this repository
 ```
-git clone https://github.com/smoortga/Statistische_Verwerking_Van_Experimentele_Gegevens_public.git
+git clone https://github.com/AlexDeMoor/Statistische_Verwerking_Van_Experimentele_Gegevens_public.git
 ```
 
 ## Step 1: download anaconda
